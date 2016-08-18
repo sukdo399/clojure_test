@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ReplState" timestamp="1471513105720">{:repl-history {:ide [], :local [&quot;(ns serpent-talk.talk-test\n  (:require [clojure.test :refer :all]\n            [serpent-talk.talk :refer :all]))\n\n(deftest a-test\n         (testing \&quot;FIXME, I fail.\&quot;\n                  (is (= 0 1))))\n&quot;], :remote []}}</component>
+</project>
